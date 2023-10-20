@@ -1,0 +1,5 @@
+[server]
+
+port = 8501
+# Default: 200
+maxMessageSize = 200000
